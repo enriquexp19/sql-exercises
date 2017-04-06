@@ -1,0 +1,1 @@
+SELECT student.name, student2.name FROM friend INNER JOIN student ON student.id = id1 INNER JOIN student student2 ON student2.id = id2;
