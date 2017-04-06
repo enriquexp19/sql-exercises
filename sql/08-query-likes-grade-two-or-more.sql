@@ -1,0 +1,1 @@
+SELECT student.name, student.grade, student2.name, student2.grade FROM student_like INNER JOIN student ON liker_id = student.id INNER JOIN student student2 ON likee_id = student2.id WHERE student.grade - 2 >= student2.grade;
