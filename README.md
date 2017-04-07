@@ -39,7 +39,7 @@
   - [x] `sql/05-load-table-friend.sql`
   - [x] `sql/06-load-table-like.sql`
   - [x] `sql/07-query-friends-gabriel.sql`
-  - [x] `sql/08-query-likes-grade-two-or-more.sql`
+  - [ ] `sql/08-query-likes-grade-two-or-more.sql`
   - [ ] `sql/09-mutual-likes.sql`
   - [ ] `sql/10-not-liked.sql`
   - [ ] `sql/11-liked-but-does-not-like.sql`
@@ -47,16 +47,16 @@
   - [ ] `sql/13-popular-students.sql`
 
 ### Day 5: Exercises on SQL Bolt
-- [ ] Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
+- [x] Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
 
 ### General
 
-- [ ] All major features are added via pull requests with a clear description and concise commit messages.
-- [ ] SQL files are well formatted and readable.
-- [ ] All the SQL keywords are capitalized.
+- [x] All major features are added via pull requests with a clear description and concise commit messages.
+- [x] SQL files are well formatted and readable.
+- [x] All the SQL keywords are capitalized.
 
 ### Stretch
-- [ ] Complete the [Codeacademy course on SQL](https://www.codecademy.com/learn/learn-sql)
+- [x] Complete the [Codeacademy course on SQL](https://www.codecademy.com/learn/learn-sql)
 - [ ] Complete the [SQL Zoo quizzes](http://sqlzoo.net/wiki/Tutorial_Quizzes)
 
 # SQL Exercises
